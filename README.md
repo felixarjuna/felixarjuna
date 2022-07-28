@@ -3,7 +3,7 @@
 - ❤️ I’m in love with web development 
 - 💞️ I’m looking to collaborate on any interesting projects 
 - 📫 How to reach me : em@il me at felixarjuna@ymail.com
-- 👾 Projects that i'm working on [EnSysMod](https://github.com/felixarjuna/EnSysMod_client_side), [btso](https://git.fh-aachen.de/tb5152e/btso) (Accessable only with FH-Aachen Account) and [juelich_dh](https://gitlab.fz-juelich.de/IEK10/core-projects/BaD/juelich_dh) (Accessable only with FZ-Juelich Account)
+- 👾 Projects that i'm working on [EnSysMod](https://github.com/felixarjuna/EnSysMod_client_side), [BTSO (Building Technology Size Optimization)](https://git.fh-aachen.de/tb5152e/btso) (Accessable only with FH-Aachen Account) and [juelich_dh (Juelich District Heating)](https://gitlab.fz-juelich.de/IEK10/core-projects/BaD/juelich_dh) (Accessable only with FZ-Juelich Account)
 
 Visit my portfolio site [here](felixarjuna.github.io/felixarjuna)
 
