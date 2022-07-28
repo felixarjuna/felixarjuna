@@ -1,10 +1,10 @@
-👋 Hi, I’m @felixarjuna and currently work as student research assistant @Forschungszentrum Jülich, Nowum Institut und Solar Institut Jülich
-🎓 Graduated from FH-Aachen University with B. Eng for Mechanical Engineering with energy technology specification
-👀 Interested in programming, energy systems and energy economy
-❤️ In love with web development 
-💞️ Looking to collaborate on any interesting projects 
-📫 How to reach me : em@il me at felixarjuna.de@yahoo.com
-👾 Projects that i'm working on [EnSysMod](https://github.com/felixarjuna/EnSysMod_client_side), [BTSO (Building Technology Size Optimization)](https://git.fh-aachen.de/tb5152e/btso) (Accessable only with FH-Aachen Account) and [juelich_dh (Juelich District Heating)](https://gitlab.fz-juelich.de/IEK10/core-projects/BaD/juelich_dh) (Accessable only with FZ-Juelich Account)
+- 👋 Hi, I’m @felixarjuna and currently work as student research assistant @Forschungszentrum Jülich, Nowum Institut und Solar Institut Jülich
+- 🎓 Graduated from FH-Aachen University with B. Eng for Mechanical Engineering with energy technology specification
+- 👀 Interested in programming, energy systems and energy economy
+- ❤️ In love with web development 
+- 💞️ Looking to collaborate on any interesting projects 
+- 📫 How to reach me : em@il me at felixarjuna.de@yahoo.com
+- 👾 Projects that i'm working on [EnSysMod](https://github.com/felixarjuna/EnSysMod_client_side), [BTSO (Building Technology Size Optimization)](https://git.fh-aachen.de/tb5152e/btso) (Accessable only with FH-Aachen Account) and [juelich_dh (Juelich District Heating)](https://gitlab.fz-juelich.de/IEK10/core-projects/BaD/juelich_dh) (Accessable only with FZ-Juelich Account)
 
 Visit my portfolio site [here](felixarjuna.github.io/felixarjuna)
 
