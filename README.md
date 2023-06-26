@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @felixarjuna and currently work as student research assistant @Forschungszentrum Jülich, Nowum Institut und Solar Institut Jülich
+- 👋 Hi, I’m @felixarjuna and currently worked as student research assistant @Forschungszentrum Jülich, Nowum Institut und Solar Institut Jülich
 - 🎓 Graduated from FH-Aachen University with B. Eng for Mechanical Engineering with energy technology specification
-- 👀 Interested in programming, energy systems and energy economy
+- 👀 Interested in web3.0, blockchain technology, electric vehicle and climate neutrality
 - ❤️ In love with web development 
 - 💞️ Looking to collaborate on any interesting projects 
 - 📫 How to reach me : em@il me at felixarjuna.de@yahoo.com
