@@ -14,7 +14,7 @@ A web application for the Indonesian Christian community leveraging NextJS with 
 **ploeg** \
 A web application tailored for Charge Point Operators (CPOs), facilitating efficient management of charging infrastructure using NextJS with Typescript for the frontend and .NET with C# for the backend. Enhanced operational effectiveness through remote monitoring and control features, providing real-time visibility into charging activities. Implemented proactive measures for quick problem detection, ensuring minimal downtime and optimizing system reliability.
 
-Visit my portfolio site [here](https://felixarjuna.github.io/portfolio)
+Visit my portfolio site [here](https://felixarjuna.vercel.app)
 
 <!---
 felixarjuna/felixarjuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
